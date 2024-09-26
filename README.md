@@ -23,9 +23,12 @@ CRUD-HOTEL es un sistema de gestión hotelera desarrollado en C# utilizando Wind
 3. Configurar la conexión a la base de datos en el archivo App.config.
 4. Ejecutar las migraciones SQL para crear las tablas necesarias.
 
-##Uso
+## Uso
 Ejecutar la aplicación desde Visual Studio.
 Utilizar el panel de control para añadir, editar o eliminar habitaciones, clientes y reservas.
 
-##Contribuciones
+## Contribuciones
 Si deseas contribuir a este proyecto, por favor abre un "Issue" o envía un "Pull Request".
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles o visita [Open Source Initiative - MIT License](https://opensource.org/licenses/MIT) para más información sobre esta licencia.
